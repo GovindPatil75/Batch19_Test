@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-24T20:26:29 IST" name="Default suite" finished-at="2023-06-24T20:26:35 IST" duration-ms="6186">
+  <suite started-at="2023-06-28T09:34:29 IST" name="Default suite" finished-at="2023-06-28T09:34:38 IST" duration-ms="8206">
     <groups>
     </groups>
-    <test started-at="2023-06-24T20:26:29 IST" name="Default test" finished-at="2023-06-24T20:26:35 IST" duration-ms="6186">
-      <class name="com.TestLogin.VerifyHomePageTest">
-        <test-method signature="verifyHomepage()[pri:0, instance:com.TestLogin.VerifyHomePageTest@3c7f66c4]" started-at="2023-06-24T20:26:29 IST" name="verifyHomepage" finished-at="2023-06-24T20:26:35 IST" duration-ms="6139" status="PASS">
+    <test started-at="2023-06-28T09:34:29 IST" name="Default test" finished-at="2023-06-28T09:34:38 IST" duration-ms="8206">
+      <class name="com.TestLogin.VerifyTestLogin">
+        <test-method signature="verify_loginFB()[pri:0, instance:com.TestLogin.VerifyTestLogin@6da21078]" started-at="2023-06-28T09:34:29 IST" name="verify_loginFB" finished-at="2023-06-28T09:34:38 IST" duration-ms="8175" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyHomepage -->
-      </class> <!-- com.TestLogin.VerifyHomePageTest -->
+        </test-method> <!-- verify_loginFB -->
+      </class> <!-- com.TestLogin.VerifyTestLogin -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
